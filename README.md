@@ -1,2 +1,2 @@
 # navttc_class
-This repository is to lean github.
+This repository is to learn github.
